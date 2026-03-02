@@ -14,8 +14,11 @@ Duplicate reminder prevention
 
 ## Tech Stack:
 Google Forms
+
 n8n
+
 Google Sheets
+
 Gmail 
 
 ## Repository Contents:
@@ -57,3 +60,7 @@ Add Gmail  credentials
 
 Click Activate in n8n.
 The system will now run automatically every 15 minutes.
+
+**6. Google Sheet Link**
+
+https://docs.google.com/spreadsheets/d/1WtZa9SgHv-u0TqBtKoiN9QGSV4q0Qum7QTseqLrYIso/edit?usp=sharing
