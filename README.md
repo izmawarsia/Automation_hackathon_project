@@ -13,6 +13,7 @@ Late submission marking
 Duplicate reminder prevention
 
 ## Tech Stack:
+
 Google Forms
 
 n8n
@@ -22,9 +23,12 @@ Google Sheets
 Gmail 
 
 ## Repository Contents:
-workflow.json – n8n workflow file
-screenshots/ – Workflow and system images
-docs/ – Detailed documentation and system design
+
+Automated Assignment Deadline Reminder System.json – n8n workflow file
+
+output results – Workflow and system images
+
+DOCUMENTATION_OF_DEADLINE_REMINDER_SYSTEM –  (Detailed documentation and system design)
 
 ## Setup Instructions:
 **1. Install n8n**
@@ -60,6 +64,18 @@ Add Gmail  credentials
 
 Click Activate in n8n.
 The system will now run automatically every 15 minutes.
+
+
+## Demo Video 
+
+This video is presenting the automated workflow of this system:
+
+
+
+
+
+
+
 
 **6. Google Sheet Link**
 
