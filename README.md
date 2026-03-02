@@ -28,6 +28,7 @@ Google Sheets
 Gmail 
 
 **GOOGLE SHEET LINK IS PROVIDED BELOW , FROM WHERE YOU ACCESS ACTUAL DATASET**
+https://docs.google.com/spreadsheets/d/1WtZa9SgHv-u0TqBtKoiN9QGSV4q0Qum7QTseqLrYIso/edit?usp=sharing
 
 ## Repository Contents:
 
@@ -84,8 +85,3 @@ This video is presenting the automated workflow of this system:
 
 
 
-
-
-**6. Google Sheet Link**
-
-https://docs.google.com/spreadsheets/d/1WtZa9SgHv-u0TqBtKoiN9QGSV4q0Qum7QTseqLrYIso/edit?usp=sharing
