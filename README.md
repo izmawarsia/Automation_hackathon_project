@@ -6,7 +6,7 @@ This project is a time-based automation workflow built using n8n.
 It monitors assignment deadlines stored in Google Sheets and automatically sends reminder emails before the deadline. It also marks assignments as late if overdue.
 
 ## Features:
-.Scheduled workflow (runs every 15 minutes)
+.Scheduled workflow (runs every 5 minutes)
 24-hour reminder email
 2-hour reminder email
 Late submission marking
@@ -63,7 +63,7 @@ Add Gmail  credentials
 **5. Activate Workflow**
 
 Click Activate in n8n.
-The system will now run automatically every 15 minutes.
+The system will now run automatically every 5 minutes.
 
 
 ## Demo Video 
