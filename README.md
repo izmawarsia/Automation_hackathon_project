@@ -7,9 +7,13 @@ It monitors assignment deadlines stored in Google Sheets and automatically sends
 
 ## Features:
 .Scheduled workflow (runs every 5 minutes)
+
 24-hour reminder email
+
 2-hour reminder email
+
 Late submission marking
+
 Duplicate reminder prevention
 
 ## Tech Stack:
